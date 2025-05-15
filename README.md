@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there, I'm Karanbir Singh Pelia 👋
 
-<!--
-**karanbir-pelia/karanbir-pelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Graduate Student** – M.S. Computer Science @ Stony Brook University  
+🔬 **Graduate Research Assistant** – Visual storytelling, AI + data visualization  
+💡 Always learning, always building, always curious
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 What I’m into:
+- 🤖 Artificial Intelligence, NLP, and LLMs
+- 🖼️ Computer Vision + Human-Centered Visualizations
+- 📊 Data Science & Dashboarding
+- 🛠️ Automating workflows and building intelligent tools
+
+---
+
+#### 🔧 Some projects I’ve built:
+- 🪞 A tool that converts websites into presentation decks  
+- 🧑‍💻 A fatigue detection system using real-time posture & eye-tracking  
+- 🌿 A plant disease recognizer powered by custom CNNs  
+
+---
+
+#### 💬 Let’s connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/karanbir-singh-pelia)  
+[📫 Email](mailto:karanbirsingh.pelia@stonybrook.edu) • [🌐 Portfolio](https://karanbir-pelia.github.io/)
+
+---
+
+_“Code with purpose, learn with curiosity, build with care.”_
