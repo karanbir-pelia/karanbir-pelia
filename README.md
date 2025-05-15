@@ -23,9 +23,9 @@
 
 #### 🌐 Let’s Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E?style=flat&logo=github&logoColor=white)](https://karanbir-pelia.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karanbir-singh-pelia)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:karanbirsingh.pelia@stonybrook.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://karanbir-pelia.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karanbir-singh-pelia)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanbirsingh.pelia@stonybrook.edu)
 
 ---
 
